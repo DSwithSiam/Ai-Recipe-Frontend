@@ -16,7 +16,7 @@
     "@reduxjs/toolkit": "^2.8.1",
     "@tailwindcss/vite": "^4.0.9",
     "@vis.gl/react-google-maps": "^1.5.2",
-    "axios": "^1.8.4",
+    "axios": "^1.12.0",
     "file-saver": "^2.0.5",
     "framer-motion": "^12.7.4",
     "leaflet": "^1.9.4",
